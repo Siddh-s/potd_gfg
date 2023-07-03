@@ -2,7 +2,7 @@
     {
         // Your code goes here
         for(int i=0;i<k;i++){
-            a[updates[i]-1]+++++;
+            a[updates[i]-1]+++;
         }
         int temp=0;
         for(int i=0;i<n;i++){
